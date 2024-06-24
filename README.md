@@ -1,1 +1,6 @@
 "# University-Management-System-OOP" 
+FFJ.. THIS IS A BEAUTIFUL EXASMPLE.. IT WILL DO MAGIC...
+
+THIS IS HOW YOU RUN IT AND IT WORKS PERFECTLY:::
+
+> bun run main.ts
